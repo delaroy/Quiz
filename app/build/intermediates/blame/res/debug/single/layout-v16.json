@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/delaroy/AndroidStudioProjects/Quiz/app/build/intermediates/res/merged/debug/layout-v16/notification_template_custom_big.xml",
+        "source": "/home/delaroy/AndroidStudioProjects/Quiz/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/layout-v16/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/delaroy/AndroidStudioProjects/Triviality/app/build/intermediates/res/merged/debug/layout-v16/notification_template_custom_big.xml",
+        "source": "/home/delaroy/AndroidStudioProjects/Triviality/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/layout-v16/notification_template_custom_big.xml"
+    }
+]

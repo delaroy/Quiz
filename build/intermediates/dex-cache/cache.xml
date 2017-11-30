@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/delaroy/AndroidStudioProjects/Quiz/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/delaroy/AndroidStudioProjects/Quiz/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.3.1_181c3762399b0c6f8aea204c24f2768497f78db5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/delaroy/AndroidStudioProjects/Quiz/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/home/delaroy/AndroidStudioProjects/Quiz/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.3.1_56bcb049af850825bcedee14caee23e996afd7be.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/delaroy/AndroidStudioProjects/Quiz/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/home/delaroy/AndroidStudioProjects/Quiz/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.3.1_770d7c9c448e4bfee8cbc130113135440a1b4150.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/delaroy/AndroidStudioProjects/Quiz/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/home/delaroy/AndroidStudioProjects/Quiz/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.3.1_9744c8b3fd8ec8c6da510242ea9f531810f87bf6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/delaroy/AndroidStudioProjects/Quiz/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/home/delaroy/AndroidStudioProjects/Quiz/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.3.1_65dad2955348a1d290702904da9326b2f6a4b8c8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/delaroy/opt/android-sdk-linux/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/home/delaroy/AndroidStudioProjects/Quiz/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_c3d64a11cacbae3f684be0d291ed4ac38e6f2528.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/delaroy/AndroidStudioProjects/Quiz/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/home/delaroy/AndroidStudioProjects/Quiz/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.3.1_cd867223ae7e0b0d6b53817e873a2653a7642139.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/delaroy/AndroidStudioProjects/Quiz/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/home/delaroy/AndroidStudioProjects/Quiz/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.3.1_106944ef328702e26353e9361dcc88109e92a685.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/delaroy/AndroidStudioProjects/Quiz/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/home/delaroy/AndroidStudioProjects/Quiz/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.3.1_bde06cf990ef8c500b7f30e40980543db677d4cc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/delaroy/AndroidStudioProjects/Quiz/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/home/delaroy/AndroidStudioProjects/Quiz/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.3.1_c91113ae88691feeb6a1fff6670c70b59a067fef.jar" />
+    </item>
+
+</items>

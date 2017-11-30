@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/delaroy/AndroidStudioProjects/Quiz/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_filter.png",
+        "source": "/home/delaroy/AndroidStudioProjects/Quiz/app/src/main/res/drawable-hdpi/ic_filter.png"
+    },
+    {
+        "merged": "/home/delaroy/AndroidStudioProjects/Triviality/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_launcher.png",
+        "source": "/home/delaroy/AndroidStudioProjects/Triviality/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/delaroy/AndroidStudioProjects/Quiz/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_launcher.png",
+        "source": "/home/delaroy/AndroidStudioProjects/Quiz/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/delaroy/AndroidStudioProjects/Triviality/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_filter.png",
+        "source": "/home/delaroy/AndroidStudioProjects/Triviality/app/src/main/res/drawable-hdpi/ic_filter.png"
+    }
+]

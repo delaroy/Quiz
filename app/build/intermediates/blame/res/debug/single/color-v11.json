@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/delaroy/AndroidStudioProjects/Quiz/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/home/delaroy/AndroidStudioProjects/Quiz/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/home/delaroy/AndroidStudioProjects/Triviality/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/home/delaroy/AndroidStudioProjects/Triviality/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/home/delaroy/AndroidStudioProjects/Quiz/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/home/delaroy/AndroidStudioProjects/Quiz/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/home/delaroy/AndroidStudioProjects/Triviality/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/home/delaroy/AndroidStudioProjects/Triviality/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    }
+]
