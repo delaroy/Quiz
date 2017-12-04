@@ -1,6 +1,9 @@
 package com.delaroystudios.quiz.data;
 import java.util.ArrayList;
+import java.util.Collections;
 import java.util.List;
+import java.util.Random;
+
 import android.content.ContentValues;
 import android.content.Context;
 import android.database.Cursor;
@@ -73,7 +76,7 @@ public class DbHelper extends SQLiteOpenHelper {
 	public List<Question> getAllQuestions() {
 		List<Question> quesList = new ArrayList<Question>();
 		// Select All Query
-		String selectQuery = "SELECT  * FROM " + TABLE_QUEST;
+		String selectQuery = "SELECT  * FROM " + TABLE_QUEST + " ORDER BY "+ "RANDOM()";
 		dbase=this.getReadableDatabase();
 		Cursor cursor = dbase.rawQuery(selectQuery, null);
 		// looping through all rows and adding to list
@@ -88,6 +91,7 @@ public class DbHelper extends SQLiteOpenHelper {
 				quest.setOPTC(cursor.getString(5));
 				quesList.add(quest);
 			} while (cursor.moveToNext());
+            Collections.shuffle(quesList);
 		}
 		// return quest list
 		return quesList;
