@@ -10,6 +10,7 @@ import android.widget.Button;
 import android.widget.RadioButton;
 import android.widget.RadioGroup;
 import android.widget.TextView;
+import android.widget.Toast;
 
 import com.delaroystudios.quiz.data.DbHelper;
 
@@ -38,9 +39,16 @@ public class QuizActivity extends AppCompatActivity {
 			@Override
 			public void onClick(View v) {
 				RadioGroup grp=(RadioGroup)findViewById(R.id.radioGroup1);
+
+                if (grp.getCheckedRadioButtonId() == -1){
+					return;
+				}
+
 				RadioButton answer=(RadioButton)findViewById(grp.getCheckedRadioButtonId());
+
 				grp.clearCheck();
-				Log.d("yourans", currentQ.getANSWER()+" "+answer.getText());
+				//Log.d("yourans", currentQ.getANSWER()+" "+answer.getText());
+
 				if(currentQ.getANSWER().equals(answer.getText()))
 				{
 					score++;
