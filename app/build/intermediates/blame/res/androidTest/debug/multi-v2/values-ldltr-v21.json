@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/delaroy/AndroidStudioProjects/Quiz/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-ldltr-v21/values-ldltr-v21.xml",
+            "map": [
+                {
+                    "source": "/home/delaroy/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6cd72b89eb33e4ba478e73c8bfd8a897/res/values-ldltr-v21/values-ldltr-v21.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "112",
+                        "endOffsets": "163"
+                    }
+                }
+            ]
+        }
+    ]
+}

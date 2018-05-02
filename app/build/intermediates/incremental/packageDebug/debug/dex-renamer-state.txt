@@ -1,0 +1,4 @@
+#Tue May 01 23:22:20 WAT 2018
+base.0=/home/delaroy/AndroidStudioProjects/Quiz/app/build/intermediates/transforms/dexMerger/debug/0
+renamed.0=classes.dex
+file.0=/home/delaroy/AndroidStudioProjects/Quiz/app/build/intermediates/transforms/dexMerger/debug/0/classes.dex

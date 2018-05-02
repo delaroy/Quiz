@@ -1,0 +1,38 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/delaroy/AndroidStudioProjects/Quiz/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "/home/delaroy/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6cd72b89eb33e4ba478e73c8bfd8a897/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "121",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "289"
+                    }
+                },
+                {
+                    "source": "/home/delaroy/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/0cadd94f7c2b1d8d5ca9e874341e2b42/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                }
+            ]
+        }
+    ]
+}
