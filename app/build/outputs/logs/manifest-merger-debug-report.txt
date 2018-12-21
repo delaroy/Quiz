@@ -4,24 +4,25 @@ ADDED from /home/delaroy/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest
 INJECTED from /home/delaroy/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest.xml:2:1-30:12
 INJECTED from /home/delaroy/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest.xml:2:1-30:12
 INJECTED from /home/delaroy/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest.xml:2:1-30:12
-MERGED from [com.android.support:appcompat-v7:26.1.0] /home/delaroy/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6cd72b89eb33e4ba478e73c8bfd8a897/AndroidManifest.xml:17:1-31:12
-MERGED from [android.arch.persistence.room:runtime:1.0.0] /home/delaroy/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/6d24b1e65b0d047366ffcd139562ff8b/AndroidManifest.xml:17:1-24:12
-MERGED from [android.arch.lifecycle:extensions:1.1.1] /home/delaroy/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/8c960a71fd6bd6f4e99243d023c04820/AndroidManifest.xml:17:1-30:12
-MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/delaroy/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/5a3b5a6d3deaa178e63a16b849add59e/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/delaroy/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/f17537f859db0b93c77ffe0fcf0d54e1/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/delaroy/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/203571982a3a2a917f117ae5fbbc13f8/AndroidManifest.xml:17:1-28:12
-MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/delaroy/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/cfc2ff196fa481909cdb055fb547b5ca/AndroidManifest.xml:17:1-28:12
-MERGED from [android.arch.persistence:db-framework:1.0.0] /home/delaroy/.gradle/caches/transforms-1/files-1.1/db-framework-1.0.0.aar/7ad6ca4d59552cc3b16c0eeb0ef6735a/AndroidManifest.xml:17:1-24:12
-MERGED from [android.arch.persistence:db:1.0.0] /home/delaroy/.gradle/caches/transforms-1/files-1.1/db-1.0.0.aar/949d9e15536d3ff273ceebe13ca66ec3/AndroidManifest.xml:17:1-24:12
-MERGED from [com.android.support:support-v4:26.1.0] /home/delaroy/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/c1490fc6fccfd51ad750931e66bcf53c/AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-fragment:26.1.0] /home/delaroy/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/df11773de8dca63f5977d345810817e2/AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-core-utils:26.1.0] /home/delaroy/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/243c28b318d793814aac20594b2ea513/AndroidManifest.xml:17:1-31:12
-MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/delaroy/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/5cacf6104f629724e642ff0dbeef1662/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.core:runtime:1.1.1] /home/delaroy/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/02d4b9efc46d2101763a30d9270ac53f/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-media-compat:26.1.0] /home/delaroy/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/25e92737b4bbaef7d60c95c181e270c8/AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-core-ui:26.1.0] /home/delaroy/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/1bd64a4f278ac76cebc2bda73dbe99f0/AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-compat:26.1.0] /home/delaroy/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/0cadd94f7c2b1d8d5ca9e874341e2b42/AndroidManifest.xml:17:1-31:12
-MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/delaroy/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/de7b720c4dc0cc37a664ac2fab0e5fa0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/delaroy/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6cca5438a9812759c2d99fe6e5937a99/AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.persistence.room:runtime:1.0.0] /home/delaroy/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/270b80a425a8dcf6c97a774e1c18bd7e/AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.lifecycle:extensions:1.1.1] /home/delaroy/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/91306ea0fd759536213058c88bd36b21/AndroidManifest.xml:17:1-30:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/delaroy/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/6de66114b16f9cb415592be2884c533c/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/delaroy/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/ac9aa35827bc5f1be45da1edbb3b08ac/AndroidManifest.xml:17:1-22:12
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] /home/delaroy/.gradle/caches/transforms-1/files-1.1/rxandroid-2.0.1.aar/5d45b5161ef85804f1c85c1164ca3454/AndroidManifest.xml:15:1-21:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/delaroy/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/65bc4a88fa0aa519d0a24ea447199bbd/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/delaroy/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/afa7e926e8c09b996bced98214d5dc76/AndroidManifest.xml:17:1-28:12
+MERGED from [android.arch.persistence:db-framework:1.0.0] /home/delaroy/.gradle/caches/transforms-1/files-1.1/db-framework-1.0.0.aar/9c04175ec7fbbe2a336e80af8ecb01e8/AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.persistence:db:1.0.0] /home/delaroy/.gradle/caches/transforms-1/files-1.1/db-1.0.0.aar/07e22ebe0f5ca9bcab12229c8e6c9158/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-v4:26.1.0] /home/delaroy/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/503be527eb4530ce2c5a8f06121f7acc/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] /home/delaroy/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/9bd3b77167c5daed193a544714c695cf/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/delaroy/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/ccad013235b87b4e8e48f1e472135ffc/AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/delaroy/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/393fdd30bd38d24e3e7445147214347d/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /home/delaroy/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/f4e5f81700e693948ef0e75a874e9119/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/delaroy/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/ae15feaf572bc32e7291534532e90bc3/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/delaroy/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/b8a24a6656885502c56f358269eaee6f/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] /home/delaroy/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/18ba1ffeabcb91d3a34cef18d6507650/AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/delaroy/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/40fc2c159101ded5d25b51292b789674/AndroidManifest.xml:17:1-22:12
 INJECTED from /home/delaroy/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest.xml:2:1-30:12
 INJECTED from /home/delaroy/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest.xml:2:1-30:12
 INJECTED from /home/delaroy/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest.xml:2:1-30:12
@@ -45,26 +46,26 @@ ADDED from /home/delaroy/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest
 		ADDED from /home/delaroy/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest.xml:7:22-64
 application
 ADDED from /home/delaroy/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest.xml:10:5-28:19
-MERGED from [com.android.support:appcompat-v7:26.1.0] /home/delaroy/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6cd72b89eb33e4ba478e73c8bfd8a897/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:appcompat-v7:26.1.0] /home/delaroy/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6cd72b89eb33e4ba478e73c8bfd8a897/AndroidManifest.xml:25:5-29:19
-MERGED from [android.arch.lifecycle:extensions:1.1.1] /home/delaroy/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/8c960a71fd6bd6f4e99243d023c04820/AndroidManifest.xml:22:5-28:19
-MERGED from [android.arch.lifecycle:extensions:1.1.1] /home/delaroy/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/8c960a71fd6bd6f4e99243d023c04820/AndroidManifest.xml:22:5-28:19
-MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/delaroy/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/203571982a3a2a917f117ae5fbbc13f8/AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/delaroy/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/203571982a3a2a917f117ae5fbbc13f8/AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/delaroy/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/cfc2ff196fa481909cdb055fb547b5ca/AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/delaroy/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/cfc2ff196fa481909cdb055fb547b5ca/AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:support-v4:26.1.0] /home/delaroy/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/c1490fc6fccfd51ad750931e66bcf53c/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-v4:26.1.0] /home/delaroy/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/c1490fc6fccfd51ad750931e66bcf53c/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-fragment:26.1.0] /home/delaroy/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/df11773de8dca63f5977d345810817e2/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-fragment:26.1.0] /home/delaroy/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/df11773de8dca63f5977d345810817e2/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-core-utils:26.1.0] /home/delaroy/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/243c28b318d793814aac20594b2ea513/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-core-utils:26.1.0] /home/delaroy/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/243c28b318d793814aac20594b2ea513/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-media-compat:26.1.0] /home/delaroy/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/25e92737b4bbaef7d60c95c181e270c8/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-media-compat:26.1.0] /home/delaroy/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/25e92737b4bbaef7d60c95c181e270c8/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-core-ui:26.1.0] /home/delaroy/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/1bd64a4f278ac76cebc2bda73dbe99f0/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-core-ui:26.1.0] /home/delaroy/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/1bd64a4f278ac76cebc2bda73dbe99f0/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-compat:26.1.0] /home/delaroy/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/0cadd94f7c2b1d8d5ca9e874341e2b42/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-compat:26.1.0] /home/delaroy/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/0cadd94f7c2b1d8d5ca9e874341e2b42/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/delaroy/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6cca5438a9812759c2d99fe6e5937a99/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/delaroy/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6cca5438a9812759c2d99fe6e5937a99/AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:extensions:1.1.1] /home/delaroy/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/91306ea0fd759536213058c88bd36b21/AndroidManifest.xml:22:5-28:19
+MERGED from [android.arch.lifecycle:extensions:1.1.1] /home/delaroy/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/91306ea0fd759536213058c88bd36b21/AndroidManifest.xml:22:5-28:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/delaroy/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/65bc4a88fa0aa519d0a24ea447199bbd/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/delaroy/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/65bc4a88fa0aa519d0a24ea447199bbd/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/delaroy/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/afa7e926e8c09b996bced98214d5dc76/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/delaroy/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/afa7e926e8c09b996bced98214d5dc76/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] /home/delaroy/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/503be527eb4530ce2c5a8f06121f7acc/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /home/delaroy/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/503be527eb4530ce2c5a8f06121f7acc/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /home/delaroy/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/9bd3b77167c5daed193a544714c695cf/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /home/delaroy/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/9bd3b77167c5daed193a544714c695cf/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/delaroy/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/ccad013235b87b4e8e48f1e472135ffc/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/delaroy/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/ccad013235b87b4e8e48f1e472135ffc/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/delaroy/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/ae15feaf572bc32e7291534532e90bc3/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/delaroy/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/ae15feaf572bc32e7291534532e90bc3/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/delaroy/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/b8a24a6656885502c56f358269eaee6f/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/delaroy/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/b8a24a6656885502c56f358269eaee6f/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /home/delaroy/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/18ba1ffeabcb91d3a34cef18d6507650/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /home/delaroy/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/18ba1ffeabcb91d3a34cef18d6507650/AndroidManifest.xml:25:5-29:19
 	android:label
 		ADDED from /home/delaroy/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest.xml:13:9-41
 	android:icon
@@ -99,46 +100,48 @@ uses-sdk
 INJECTED from /home/delaroy/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /home/delaroy/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest.xml
 INJECTED from /home/delaroy/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest.xml
-MERGED from [com.android.support:appcompat-v7:26.1.0] /home/delaroy/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6cd72b89eb33e4ba478e73c8bfd8a897/AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:appcompat-v7:26.1.0] /home/delaroy/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6cd72b89eb33e4ba478e73c8bfd8a897/AndroidManifest.xml:21:5-23:78
-MERGED from [android.arch.persistence.room:runtime:1.0.0] /home/delaroy/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/6d24b1e65b0d047366ffcd139562ff8b/AndroidManifest.xml:20:5-22:41
-MERGED from [android.arch.persistence.room:runtime:1.0.0] /home/delaroy/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/6d24b1e65b0d047366ffcd139562ff8b/AndroidManifest.xml:20:5-22:41
-MERGED from [android.arch.lifecycle:extensions:1.1.1] /home/delaroy/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/8c960a71fd6bd6f4e99243d023c04820/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:extensions:1.1.1] /home/delaroy/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/8c960a71fd6bd6f4e99243d023c04820/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/delaroy/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/5a3b5a6d3deaa178e63a16b849add59e/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/delaroy/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/5a3b5a6d3deaa178e63a16b849add59e/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/delaroy/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/f17537f859db0b93c77ffe0fcf0d54e1/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/delaroy/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/f17537f859db0b93c77ffe0fcf0d54e1/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/delaroy/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/203571982a3a2a917f117ae5fbbc13f8/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/delaroy/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/203571982a3a2a917f117ae5fbbc13f8/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/delaroy/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/cfc2ff196fa481909cdb055fb547b5ca/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/delaroy/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/cfc2ff196fa481909cdb055fb547b5ca/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.persistence:db-framework:1.0.0] /home/delaroy/.gradle/caches/transforms-1/files-1.1/db-framework-1.0.0.aar/7ad6ca4d59552cc3b16c0eeb0ef6735a/AndroidManifest.xml:20:5-22:41
-MERGED from [android.arch.persistence:db-framework:1.0.0] /home/delaroy/.gradle/caches/transforms-1/files-1.1/db-framework-1.0.0.aar/7ad6ca4d59552cc3b16c0eeb0ef6735a/AndroidManifest.xml:20:5-22:41
-MERGED from [android.arch.persistence:db:1.0.0] /home/delaroy/.gradle/caches/transforms-1/files-1.1/db-1.0.0.aar/949d9e15536d3ff273ceebe13ca66ec3/AndroidManifest.xml:20:5-22:41
-MERGED from [android.arch.persistence:db:1.0.0] /home/delaroy/.gradle/caches/transforms-1/files-1.1/db-1.0.0.aar/949d9e15536d3ff273ceebe13ca66ec3/AndroidManifest.xml:20:5-22:41
-MERGED from [com.android.support:support-v4:26.1.0] /home/delaroy/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/c1490fc6fccfd51ad750931e66bcf53c/AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-v4:26.1.0] /home/delaroy/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/c1490fc6fccfd51ad750931e66bcf53c/AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-fragment:26.1.0] /home/delaroy/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/df11773de8dca63f5977d345810817e2/AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-fragment:26.1.0] /home/delaroy/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/df11773de8dca63f5977d345810817e2/AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-core-utils:26.1.0] /home/delaroy/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/243c28b318d793814aac20594b2ea513/AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-core-utils:26.1.0] /home/delaroy/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/243c28b318d793814aac20594b2ea513/AndroidManifest.xml:21:5-23:61
-MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/delaroy/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/5cacf6104f629724e642ff0dbeef1662/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/delaroy/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/5cacf6104f629724e642ff0dbeef1662/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.1] /home/delaroy/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/02d4b9efc46d2101763a30d9270ac53f/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.1] /home/delaroy/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/02d4b9efc46d2101763a30d9270ac53f/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-media-compat:26.1.0] /home/delaroy/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/25e92737b4bbaef7d60c95c181e270c8/AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-media-compat:26.1.0] /home/delaroy/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/25e92737b4bbaef7d60c95c181e270c8/AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-core-ui:26.1.0] /home/delaroy/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/1bd64a4f278ac76cebc2bda73dbe99f0/AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-ui:26.1.0] /home/delaroy/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/1bd64a4f278ac76cebc2bda73dbe99f0/AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-compat:26.1.0] /home/delaroy/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/0cadd94f7c2b1d8d5ca9e874341e2b42/AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-compat:26.1.0] /home/delaroy/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/0cadd94f7c2b1d8d5ca9e874341e2b42/AndroidManifest.xml:21:5-23:58
-MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/delaroy/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/de7b720c4dc0cc37a664ac2fab0e5fa0/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/delaroy/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/de7b720c4dc0cc37a664ac2fab0e5fa0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/delaroy/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6cca5438a9812759c2d99fe6e5937a99/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/delaroy/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6cca5438a9812759c2d99fe6e5937a99/AndroidManifest.xml:21:5-23:78
+MERGED from [android.arch.persistence.room:runtime:1.0.0] /home/delaroy/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/270b80a425a8dcf6c97a774e1c18bd7e/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.persistence.room:runtime:1.0.0] /home/delaroy/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/270b80a425a8dcf6c97a774e1c18bd7e/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:extensions:1.1.1] /home/delaroy/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/91306ea0fd759536213058c88bd36b21/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:extensions:1.1.1] /home/delaroy/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/91306ea0fd759536213058c88bd36b21/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/delaroy/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/6de66114b16f9cb415592be2884c533c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/delaroy/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/6de66114b16f9cb415592be2884c533c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/delaroy/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/ac9aa35827bc5f1be45da1edbb3b08ac/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/delaroy/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/ac9aa35827bc5f1be45da1edbb3b08ac/AndroidManifest.xml:20:5-44
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] /home/delaroy/.gradle/caches/transforms-1/files-1.1/rxandroid-2.0.1.aar/5d45b5161ef85804f1c85c1164ca3454/AndroidManifest.xml:19:5-43
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] /home/delaroy/.gradle/caches/transforms-1/files-1.1/rxandroid-2.0.1.aar/5d45b5161ef85804f1c85c1164ca3454/AndroidManifest.xml:19:5-43
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/delaroy/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/65bc4a88fa0aa519d0a24ea447199bbd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/delaroy/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/65bc4a88fa0aa519d0a24ea447199bbd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/delaroy/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/afa7e926e8c09b996bced98214d5dc76/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/delaroy/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/afa7e926e8c09b996bced98214d5dc76/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence:db-framework:1.0.0] /home/delaroy/.gradle/caches/transforms-1/files-1.1/db-framework-1.0.0.aar/9c04175ec7fbbe2a336e80af8ecb01e8/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.persistence:db-framework:1.0.0] /home/delaroy/.gradle/caches/transforms-1/files-1.1/db-framework-1.0.0.aar/9c04175ec7fbbe2a336e80af8ecb01e8/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.persistence:db:1.0.0] /home/delaroy/.gradle/caches/transforms-1/files-1.1/db-1.0.0.aar/07e22ebe0f5ca9bcab12229c8e6c9158/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.persistence:db:1.0.0] /home/delaroy/.gradle/caches/transforms-1/files-1.1/db-1.0.0.aar/07e22ebe0f5ca9bcab12229c8e6c9158/AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.support:support-v4:26.1.0] /home/delaroy/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/503be527eb4530ce2c5a8f06121f7acc/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] /home/delaroy/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/503be527eb4530ce2c5a8f06121f7acc/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:26.1.0] /home/delaroy/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/9bd3b77167c5daed193a544714c695cf/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] /home/delaroy/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/9bd3b77167c5daed193a544714c695cf/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/delaroy/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/ccad013235b87b4e8e48f1e472135ffc/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/delaroy/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/ccad013235b87b4e8e48f1e472135ffc/AndroidManifest.xml:21:5-23:61
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/delaroy/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/393fdd30bd38d24e3e7445147214347d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/delaroy/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/393fdd30bd38d24e3e7445147214347d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/delaroy/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/f4e5f81700e693948ef0e75a874e9119/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/delaroy/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/f4e5f81700e693948ef0e75a874e9119/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/delaroy/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/ae15feaf572bc32e7291534532e90bc3/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/delaroy/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/ae15feaf572bc32e7291534532e90bc3/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/delaroy/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/b8a24a6656885502c56f358269eaee6f/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/delaroy/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/b8a24a6656885502c56f358269eaee6f/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /home/delaroy/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/18ba1ffeabcb91d3a34cef18d6507650/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /home/delaroy/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/18ba1ffeabcb91d3a34cef18d6507650/AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/delaroy/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/40fc2c159101ded5d25b51292b789674/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/delaroy/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/40fc2c159101ded5d25b51292b789674/AndroidManifest.xml:20:5-44
 INJECTED from /home/delaroy/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest.xml
 INJECTED from /home/delaroy/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest.xml
 	tools:overrideLibrary
-		ADDED from [com.android.support:appcompat-v7:26.1.0] /home/delaroy/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6cd72b89eb33e4ba478e73c8bfd8a897/AndroidManifest.xml:23:9-75
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /home/delaroy/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6cca5438a9812759c2d99fe6e5937a99/AndroidManifest.xml:23:9-75
 	android:targetSdkVersion
 		INJECTED from /home/delaroy/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest.xml
 		ADDED from /home/delaroy/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest.xml
@@ -148,34 +151,34 @@ INJECTED from /home/delaroy/AndroidStudioProjects/Quiz/app/src/main/AndroidManif
 		ADDED from /home/delaroy/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest.xml
 		INJECTED from /home/delaroy/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest.xml
 meta-data#android.support.VERSION
-ADDED from [com.android.support:appcompat-v7:26.1.0] /home/delaroy/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6cd72b89eb33e4ba478e73c8bfd8a897/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/delaroy/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/203571982a3a2a917f117ae5fbbc13f8/AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/delaroy/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/203571982a3a2a917f117ae5fbbc13f8/AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/delaroy/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/cfc2ff196fa481909cdb055fb547b5ca/AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/delaroy/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/cfc2ff196fa481909cdb055fb547b5ca/AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:support-v4:26.1.0] /home/delaroy/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/c1490fc6fccfd51ad750931e66bcf53c/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-v4:26.1.0] /home/delaroy/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/c1490fc6fccfd51ad750931e66bcf53c/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-fragment:26.1.0] /home/delaroy/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/df11773de8dca63f5977d345810817e2/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-fragment:26.1.0] /home/delaroy/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/df11773de8dca63f5977d345810817e2/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-core-utils:26.1.0] /home/delaroy/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/243c28b318d793814aac20594b2ea513/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-core-utils:26.1.0] /home/delaroy/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/243c28b318d793814aac20594b2ea513/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-media-compat:26.1.0] /home/delaroy/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/25e92737b4bbaef7d60c95c181e270c8/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-media-compat:26.1.0] /home/delaroy/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/25e92737b4bbaef7d60c95c181e270c8/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-core-ui:26.1.0] /home/delaroy/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/1bd64a4f278ac76cebc2bda73dbe99f0/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-core-ui:26.1.0] /home/delaroy/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/1bd64a4f278ac76cebc2bda73dbe99f0/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-compat:26.1.0] /home/delaroy/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/0cadd94f7c2b1d8d5ca9e874341e2b42/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-compat:26.1.0] /home/delaroy/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/0cadd94f7c2b1d8d5ca9e874341e2b42/AndroidManifest.xml:26:9-28:38
+ADDED from [com.android.support:appcompat-v7:26.1.0] /home/delaroy/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6cca5438a9812759c2d99fe6e5937a99/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/delaroy/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/65bc4a88fa0aa519d0a24ea447199bbd/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/delaroy/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/65bc4a88fa0aa519d0a24ea447199bbd/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/delaroy/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/afa7e926e8c09b996bced98214d5dc76/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/delaroy/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/afa7e926e8c09b996bced98214d5dc76/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] /home/delaroy/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/503be527eb4530ce2c5a8f06121f7acc/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] /home/delaroy/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/503be527eb4530ce2c5a8f06121f7acc/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /home/delaroy/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/9bd3b77167c5daed193a544714c695cf/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /home/delaroy/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/9bd3b77167c5daed193a544714c695cf/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/delaroy/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/ccad013235b87b4e8e48f1e472135ffc/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/delaroy/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/ccad013235b87b4e8e48f1e472135ffc/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/delaroy/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/ae15feaf572bc32e7291534532e90bc3/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/delaroy/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/ae15feaf572bc32e7291534532e90bc3/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/delaroy/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/b8a24a6656885502c56f358269eaee6f/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/delaroy/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/b8a24a6656885502c56f358269eaee6f/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /home/delaroy/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/18ba1ffeabcb91d3a34cef18d6507650/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /home/delaroy/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/18ba1ffeabcb91d3a34cef18d6507650/AndroidManifest.xml:26:9-28:38
 	android:value
-		ADDED from [com.android.support:appcompat-v7:26.1.0] /home/delaroy/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6cd72b89eb33e4ba478e73c8bfd8a897/AndroidManifest.xml:28:13-35
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /home/delaroy/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6cca5438a9812759c2d99fe6e5937a99/AndroidManifest.xml:28:13-35
 	android:name
-		ADDED from [com.android.support:appcompat-v7:26.1.0] /home/delaroy/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6cd72b89eb33e4ba478e73c8bfd8a897/AndroidManifest.xml:27:13-51
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /home/delaroy/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6cca5438a9812759c2d99fe6e5937a99/AndroidManifest.xml:27:13-51
 provider#android.arch.lifecycle.ProcessLifecycleOwnerInitializer
-ADDED from [android.arch.lifecycle:extensions:1.1.1] /home/delaroy/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/8c960a71fd6bd6f4e99243d023c04820/AndroidManifest.xml:23:9-27:43
+ADDED from [android.arch.lifecycle:extensions:1.1.1] /home/delaroy/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/91306ea0fd759536213058c88bd36b21/AndroidManifest.xml:23:9-27:43
 	android:authorities
-		ADDED from [android.arch.lifecycle:extensions:1.1.1] /home/delaroy/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/8c960a71fd6bd6f4e99243d023c04820/AndroidManifest.xml:25:13-68
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] /home/delaroy/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/91306ea0fd759536213058c88bd36b21/AndroidManifest.xml:25:13-68
 	android:multiprocess
-		ADDED from [android.arch.lifecycle:extensions:1.1.1] /home/delaroy/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/8c960a71fd6bd6f4e99243d023c04820/AndroidManifest.xml:27:13-40
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] /home/delaroy/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/91306ea0fd759536213058c88bd36b21/AndroidManifest.xml:27:13-40
 	android:exported
-		ADDED from [android.arch.lifecycle:extensions:1.1.1] /home/delaroy/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/8c960a71fd6bd6f4e99243d023c04820/AndroidManifest.xml:26:13-37
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] /home/delaroy/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/91306ea0fd759536213058c88bd36b21/AndroidManifest.xml:26:13-37
 	android:name
-		ADDED from [android.arch.lifecycle:extensions:1.1.1] /home/delaroy/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/8c960a71fd6bd6f4e99243d023c04820/AndroidManifest.xml:24:13-83
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] /home/delaroy/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/91306ea0fd759536213058c88bd36b21/AndroidManifest.xml:24:13-83

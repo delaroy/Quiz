@@ -1,5 +1,5 @@
 package com.delaroystudios.quiz;
-import java.util.Collections;
+import java.util.ArrayList;
 import java.util.List;
 
 import android.arch.lifecycle.Observer;
@@ -17,24 +17,22 @@ import android.widget.RadioButton;
 import android.widget.RadioGroup;
 import android.widget.RelativeLayout;
 import android.widget.TextView;
+import android.widget.Toast;
 
-import com.delaroystudios.quiz.database.Questions;
-import com.delaroystudios.quiz.network.DataServiceGenerator;
-import com.delaroystudios.quiz.network.Service;
-
-import retrofit2.Call;
-import retrofit2.Callback;
-import retrofit2.Response;
+import com.delaroystudios.quiz.data.database.entity.Questions;
+import com.delaroystudios.quiz.utility.InjectorUtils;
+import com.delaroystudios.quiz.viewmodel.MainViewModel;
+import com.delaroystudios.quiz.viewmodel.MainViewModelFactory;
 
 public class QuizActivity extends AppCompatActivity {
-	List<Questions> quesList;
+	List<Questions> quesList = new ArrayList<>();
 	int score=0;
 	int qid=0;
 	Questions currentQ;
 	TextView txtQuestion;
 	RadioButton rda, rdb, rdc;
 	Button butNext;
-	private QuestionsViewModel questionsViewModel;
+    private MainViewModel vMainViewModel;
 	private RelativeLayout relativeLayout;
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
@@ -43,20 +41,24 @@ public class QuizActivity extends AppCompatActivity {
 
 		relativeLayout = (RelativeLayout) findViewById(R.id.profileLoadingScreen);
 
-		fetchQuestions();
+        MainViewModelFactory factory = InjectorUtils.getMainViewModelFactory(getApplicationContext());
+        vMainViewModel = ViewModelProviders.of(this, factory).get(MainViewModel.class);
 
+        vMainViewModel.getmQuestions().observe(this, questions -> {
 
-        questionsViewModel = ViewModelProviders.of(this).get(QuestionsViewModel.class);
+            if(questions != null && questions.size()>0){
+                quesList.clear();
+                quesList.addAll(questions);
 
-        questionsViewModel.getAllQuestions().observe(this, new Observer<List<Questions>>() {
-            @Override
-            public void onChanged(@Nullable final List<Questions> words) {
-                // Update the cached copy of the words in the adapter.
-                quesList = words;
-                Collections.shuffle(quesList);
+                Handler handler = new Handler();
+                handler.postDelayed(() -> {
+                    takeAction();
+                    relativeLayout.setVisibility(View.GONE);
+                }, 3000);
             }
         });
 
+        postRequest();
 	}
 	@Override
 	public boolean onCreateOptionsMenu(Menu menu) {
@@ -72,51 +74,6 @@ public class QuizActivity extends AppCompatActivity {
 		rdc.setText(currentQ.getOptC());
 		qid++;
 	}
-
-    private void fetchQuestions(){
-	    relativeLayout.setVisibility(View.VISIBLE);
-        DataServiceGenerator DataServiceGenerator = new DataServiceGenerator();
-        Service service = DataServiceGenerator.createService(Service.class);
-        Call<List<QuestionsModel>> call = service.getQuestions();
-
-        call.enqueue(new Callback<List<QuestionsModel>>() {
-            @Override
-            public void onResponse(Call<List<QuestionsModel>> call, Response <List<QuestionsModel>> response) {
-                if (response.isSuccessful()){
-                    if (response != null){
-                        List<QuestionsModel> questionsModelList = response.body();
-                        for (int i = 0; i < questionsModelList.size(); i++){
-                           String question = questionsModelList.get(i).getQuestion();
-                           String answer = questionsModelList.get(i).getAnswer();
-                           String opta = questionsModelList.get(i).getOptA();
-                           String optb = questionsModelList.get(i).getOptB();
-                           String optc = questionsModelList.get(i).getOptC();
-
-                           Questions questions = new Questions(question, opta,
-                                    optb, optc, answer);
-
-                            questionsViewModel.insert(questions);
-                        }
-
-                        Handler handler = new Handler();
-                        handler.postDelayed(new Runnable() {
-                            @Override
-                            public void run() {
-                                takeAction();
-
-                            }
-                        }, 3000);
-
-                    }
-                }
-            }
-
-            @Override
-            public void onFailure(Call<List<QuestionsModel>> call, Throwable t) {
-
-            }
-        });
-    }
 
     public void takeAction(){
         relativeLayout.setVisibility(View.INVISIBLE);
@@ -159,6 +116,10 @@ public class QuizActivity extends AppCompatActivity {
                 }
             }
         });
+    }
+
+    private void postRequest(){
+        vMainViewModel.postRequest();
     }
 
 }

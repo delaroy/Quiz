@@ -10,12 +10,18 @@ import android.arch.persistence.room.RoomSQLiteQuery;
 import android.arch.persistence.room.SharedSQLiteStatement;
 import android.database.Cursor;
 import android.support.annotation.NonNull;
+
+import com.delaroystudios.quiz.data.database.QuestionsDao;
+import com.delaroystudios.quiz.data.database.entity.Questions;
+
 import java.lang.Override;
 import java.lang.String;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Set;
+import javax.annotation.Generated;
 
+@Generated("android.arch.persistence.room.RoomProcessor")
 public class QuestionsDao_Impl implements QuestionsDao {
   private final RoomDatabase __db;
 
@@ -28,7 +34,7 @@ public class QuestionsDao_Impl implements QuestionsDao {
     this.__insertionAdapterOfQuestions = new EntityInsertionAdapter<Questions>(__db) {
       @Override
       public String createQuery() {
-        return "INSERT OR ABORT INTO `questions_table`(`id`,`question`,`answer`,`optA`,`optB`,`optC`) VALUES (nullif(?, 0),?,?,?,?,?)";
+        return "INSERT OR REPLACE INTO `Questions`(`id`,`question`,`answer`,`optA`,`optB`,`optC`) VALUES (nullif(?, 0),?,?,?,?,?)";
       }
 
       @Override
@@ -64,18 +70,19 @@ public class QuestionsDao_Impl implements QuestionsDao {
     this.__preparedStmtOfDeleteAll = new SharedSQLiteStatement(__db) {
       @Override
       public String createQuery() {
-        final String _query = "DELETE FROM questions_table";
+        final String _query = "DELETE FROM questions";
         return _query;
       }
     };
   }
 
   @Override
-  public void insert(Questions questions) {
+  public long[] insertAll(Questions... quest) {
     __db.beginTransaction();
     try {
-      __insertionAdapterOfQuestions.insert(questions);
+      long[] _result = __insertionAdapterOfQuestions.insertAndReturnIdsArray(quest);
       __db.setTransactionSuccessful();
+      return _result;
     } finally {
       __db.endTransaction();
     }
@@ -96,7 +103,7 @@ public class QuestionsDao_Impl implements QuestionsDao {
 
   @Override
   public LiveData<List<Questions>> getAllQuestions() {
-    final String _sql = "SELECT * from questions_table";
+    final String _sql = "SELECT * from questions";
     final RoomSQLiteQuery _statement = RoomSQLiteQuery.acquire(_sql, 0);
     return new ComputableLiveData<List<Questions>>() {
       private Observer _observer;
@@ -104,7 +111,7 @@ public class QuestionsDao_Impl implements QuestionsDao {
       @Override
       protected List<Questions> compute() {
         if (_observer == null) {
-          _observer = new Observer("questions_table") {
+          _observer = new Observer("questions") {
             @Override
             public void onInvalidated(@NonNull Set<String> tables) {
               invalidate();
